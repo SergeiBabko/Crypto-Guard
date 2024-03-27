@@ -6,9 +6,14 @@
 /CryptoGuardApp/node_modules
 /CryptoGuardApp/package-lock.json
 
+/CryptoGuardApp/[Dd]ecrypted files/
+/CryptoGuardApp/[Ee]ncrypted files/
+/CryptoGuardApp/[Mm]anual/
+/CryptoGuardApp/[Oo]riginal files/
+/CryptoGuardApp/password
+
 /[Dd]ecrypted files/
 /[Ee]ncrypted files/
 /[Mm]anual/
 /[Oo]riginal files/
-
 /password

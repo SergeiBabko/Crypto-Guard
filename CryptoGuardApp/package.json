@@ -1,0 +1,32 @@
+{
+  "name": "crypto-guard",
+  "version": "1.0.0",
+  "description": "Handles automatic and manual encryption and decryption of files or user input.",
+  "author": "Sergei Babko",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SergeiBabko/Crypto-Guard"
+  },
+  "main": "./app/index.mjs",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "scripts": {
+    "start": "node ./app/index.mjs"
+  },
+  "keywords": [
+    "encryption",
+    "decryption",
+    "crypto",
+    "security"
+  ],
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2"
+  }
+}
