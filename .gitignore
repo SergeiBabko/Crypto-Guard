@@ -1,0 +1,14 @@
+# Visual Studio and JetBrains cache directories
+/.vs/
+/.idea/
+
+# Working directories and files
+/CryptoGuardApp/node_modules
+/CryptoGuardApp/package-lock.json
+
+/[Dd]ecrypted files/
+/[Ee]ncrypted files/
+/[Mm]anual/
+/[Oo]riginal files/
+
+/password
